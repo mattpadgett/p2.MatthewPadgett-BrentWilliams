@@ -1,23 +1,42 @@
 # p2.MatthewPadgett-BrentWilliams
 
 ## Examples
+
 1. Example 1
-    - d
-    - <img src="https://user-images.githubusercontent.com/22249710/112767747-143d3780-8fde-11eb-8df4-d1b65b108552.png" width="500"/>
+    - It is very difficult to view the orange colored LED during the daytime and is very harsh during the night time. It would be much better to use a softer blue LED
+    - The meters in the middle of the console are oddly placed and it would require the driver to take their eyes off of the road to check on how their car is doing
+    - The media system and the air conditioning control units are oddly separated and on a car of this style it does not make much sense for the air conditioning control unit to have a screen
+    - The steering wheel is simplistic which works well for this car's design
+    - The emergency flashers button is in a hard to reach location as you would have to contort your body to press the button when having it up higher would make it much easier to press in an actual emergency.
+    - The speedometer is seen both analogous and digitally within the dashboard display, which is very useful in case one or the other stops working
+    <img src="https://user-images.githubusercontent.com/22249710/112767747-143d3780-8fde-11eb-8df4-d1b65b108552.png" width="500"/>
 2. Example 2
-    - 
-    - <img src="https://user-images.githubusercontent.com/22249710/112767748-14d5ce00-8fde-11eb-80ef-0f60e2110db7.png" width="500"/>
+    - There is no gas icon on the gauge. This does not clearly indicating what the user might be looking at and also does not tell the user which side of the vehicle to fill up their tank on
+    - The speedometer measures in km/h and shows the proper number for kilometers. Under the km/h is a mph designation but there is no conversion or subscripted numbers to indicate such
+    - The warning lights and status symbols have optimal placement as they are not near anything else and will clearly tell the user what they need to be aware of while operating the video
+    - The odometer has no indication of what it is showing and is not very useful in that respect
+    <img src="https://user-images.githubusercontent.com/22249710/112767748-14d5ce00-8fde-11eb-80ef-0f60e2110db7.png" width="500"/>
 3. Example 3
-    - 
-    - <img src="https://user-images.githubusercontent.com/22249710/112767750-14d5ce00-8fde-11eb-87f2-a85c3f35bf38.png" width="500"/>
+    - The screen in the center console is very low and would require taller users to crane down to determine the information. This could potentially become very dangerous
+    - The steering wheel has very clear buttons to show what each of them do without hiding the information
+    - The center console is a complete button overload and is very cluttered. It looks to have an entire phone dialing pad on the right side
+    - The emergency blinker button is placed very well and is convenient for a user
+    - The dials on the main dashboard look to be outdated for the vehicle and does not match with the theme of the center console. The colors on this dashboard are also unmatching with the rest of the vehicle
+    <img src="https://user-images.githubusercontent.com/22249710/112767750-14d5ce00-8fde-11eb-87f2-a85c3f35bf38.png" width="500"/>
 4. Example 4
-    - 
-    - <img src="https://user-images.githubusercontent.com/22249710/112767751-156e6480-8fde-11eb-8459-af6213bece4a.png" width="500"/>
+    - The screen on the dashboard is very lowly placed which would make it very difficult to read for shorter users
+    - The small dials on the dashboard have far too ticks for the information that will actually be used by anyone
+    - The dial on the steering wheel is very handy for changing radio stations or the volume of music
+    - Fuel dial does a good job of telling the user what side of the vehicle to fuel the car
+    <img src="https://user-images.githubusercontent.com/22249710/112767751-156e6480-8fde-11eb-8459-af6213bece4a.png" width="500"/>
 5. Example 5
-    - 
-    - <img src="https://user-images.githubusercontent.com/22249710/112767752-156e6480-8fde-11eb-90c4-79a8a45f2c3c.png" width="500"/>
-
-
+    - This car has two dashboards. Enough said
+    - The upper dashboard has digital interfaces that presumably determine the fuel level and speeds but the lower dashboard is completely analog
+    - The steering wheel has 12 buttons on it which does not make too much sense with how close the radio controller is
+    - Fuel meter has an entire sentence above it to say that it is the fuel meter
+    - Decent fan placement
+    - The air conditioning controller is very clear in what its too many buttons do
+    <img src="https://user-images.githubusercontent.com/22249710/112767752-156e6480-8fde-11eb-90c4-79a8a45f2c3c.png" width="500"/>
 
 ## List your most common features and other more rare uses of a car dashboards.
 
