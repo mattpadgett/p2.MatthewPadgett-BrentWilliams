@@ -19,10 +19,10 @@
 
 
 
-# List your most common features and other more rare uses of a car dashboards.
+## List your most common features and other more rare uses of a car dashboards.
 
-# List the controls that the user interacts with the car dashboards.
+## List the controls that the user interacts with the car dashboards.
 
-# What are some common mistakes you can make with this current designs?
+## What are some common mistakes you can make with this current designs?
 
-# Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
+## Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
