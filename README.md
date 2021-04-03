@@ -60,4 +60,9 @@
 ## What are some common mistakes you can make with these current designs?
 - Common mistakes that can be made with these designs are:
     - Trying to figure out A/C or radio buttons can be confusing if the labels on the buttons are not clear
+    - Not adding an arrow for the user to determine the location of the gas tank next to the gas level gauge
+    - Not making it obvious if the vehicle is displaying miles or kilometers on cars with completely digital interfaces
+    - Sometimes the locations of indicator lights is not consitent which can be confusing for users
+    - Not having an indicator to show if the doors or trunk is open
+    - Placing the emergency flasher button in a location that makes not easily accessible
 ## Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
