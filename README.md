@@ -59,5 +59,5 @@
     - Turning on/off hazard lights
 ## What are some common mistakes you can make with these current designs?
 - Common mistakes that can be made with these designs are:
-    - 
+    - Trying to figure out A/C or radio buttons can be confusing if the labels on the buttons are not clear
 ## Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
