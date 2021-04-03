@@ -40,14 +40,14 @@
 
 ## List your most common features and other more rare uses of a car dashboards.
 1. Common Features:
-        - Dials on car dashboards use the same model with a hand representing where the dial is currently at.
-        - Very common to have multiple dials on the dashboard for different purposes or functionality.
-        - Buttons on steering wheels
-        - Buttons for controlling side windows
-        - Middle of dashboard has functionality for radio or audio features
+- Dials on car dashboards use the same model with a hand representing where the dial is currently at.
+- Very common to have multiple dials on the dashboard for different purposes or functionality.
+- Buttons on steering wheels
+- Buttons for controlling side windows
+- Middle of dashboard has functionality for radio or audio features
 2. Rare Features:
-        - Dials at the middle of the dashboard instead of being only on the driver side.
-        - Having no dials on the driver side entirely.
+- Dials at the middle of the dashboard instead of being only on the driver side.
+- Having no dials on the driver side entirely.
 ## List the controls that the user interacts with the car dashboards.
 
 ## What are some common mistakes you can make with this current designs?
