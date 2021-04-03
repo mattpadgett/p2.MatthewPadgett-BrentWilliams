@@ -55,6 +55,9 @@
     - Buttons to adjust the AC or heater in the car
     - Buttons on the steering wheel if available to set the car in cruise control or stop
     - Fans if the direction of air needs to be adjusted
-## What are some common mistakes you can make with this current designs?
-
+    - Buttons for if the air flow in the car needs to go to windows or through the main fans
+    - Turning on/off hazard lights
+## What are some common mistakes you can make with these current designs?
+- Common mistakes that can be made with these designs are:
+    - 
 ## Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
