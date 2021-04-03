@@ -48,8 +48,13 @@
 2. Rare Features:
 - Dials at the middle of the dashboard instead of being only on the driver side.
 - Having no dials on the driver side entirely.
+- Dashboard LEDs being the same color, most dashboards use different colors for different gauges or symbols but one of our cars used orange to display most of everything.
 ## List the controls that the user interacts with the car dashboards.
-
+- User has to interact with:
+    - The radio on the dashboard to modify music or audio
+    - Buttons to adjust the AC or heater in the car
+    - Buttons on the steering wheel if available to set the car in cruise control or stop
+    - Fans if the direction of air needs to be adjusted
 ## What are some common mistakes you can make with this current designs?
 
 ## Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
