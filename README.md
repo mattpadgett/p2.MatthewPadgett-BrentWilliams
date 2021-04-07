@@ -66,4 +66,4 @@
     - Not having an indicator to show if the doors or trunk is open
     - Placing the emergency flasher button in a location that makes not easily accessible
 ## Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions. (Still working on it)
-<img src="https://user-images.githubusercontent.com/55467685/113799856-7fdc7e80-971b-11eb-9f45-6b2f0db6c5e7.png" width="1000" height='500'/>
+<img src="https://user-images.githubusercontent.com/55467685/113802894-19f2f580-9721-11eb-9c88-5359806ee790.png" width="1000" height='500'/>
