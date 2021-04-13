@@ -65,5 +65,8 @@
     - Sometimes the locations of indicator lights is not consitent which can be confusing for users
     - Not having an indicator to show if the doors or trunk is open
     - Placing the emergency flasher button in a location that makes not easily accessible
-## Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions. (Still working on it)
+## Suggest the improvements to make on the control interface. Sketch your solution and justify your design decisions.
 <img src="https://user-images.githubusercontent.com/55467685/113806567-23339080-9728-11eb-9a4a-4329741a257b.png" width="1000" height='500'/>
+## GIF Image
+<img src="https://user-images.githubusercontent.com/55467685/114488251-aa747e80-9bd6-11eb-9db0-3c4d0c13d1d0.gif" width="1000" height='500'/>
+
