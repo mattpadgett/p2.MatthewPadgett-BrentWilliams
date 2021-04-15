@@ -73,7 +73,7 @@
 <img src="https://user-images.githubusercontent.com/55467685/114488251-aa747e80-9bd6-11eb-9db0-3c4d0c13d1d0.gif" width="1000" height='500'/>
 
 ## Video Presentation
-[![HCI Video](https://img.youtube.com/embed/rIiBtWaDLww/0.jpg)](https://www.youtube.com/embed/rIiBtWaDLww)
+[![HCI Video](https://img.youtu.be/rIiBtWaDLww/0.jpg)](https://youtu.be/rIiBtWaDLww)
 
 
 
